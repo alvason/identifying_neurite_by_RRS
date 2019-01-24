@@ -12,5 +12,5 @@ This code has been tested with Python 3.6
 
 git@github.com:alvason/identifying_neurite_by_RRS.git
 
-
+#### Clone with HTTPS
 clone git https://github.com/alvason/identifying_neurite_by_RRS.git
