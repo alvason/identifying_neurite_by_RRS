@@ -5,7 +5,8 @@ Publication:
 # [demo of RRS method](https://github.com/alvason/cd137_tissue_tracking.ipynb)
 
 ### tracing neurite in microfuidic device
-![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_17c1/figure/AlvaHmm_demo_edge_detection_mapping_connected_way_window0.png)
+![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_17c1/figure/AlvaHmm_demo_edge_detection_selected_seeding_selected_seed_window0.png)
+![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_17c1/figure/AlvaHmm_demo_edge_detection_selected_seeding_selected_seed_window0.png)
 ![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_17c1/figure/AlvaHmm_demo_edge_detection_mapping_connected_way_window0.png)
 
 ## Installation
