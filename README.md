@@ -5,7 +5,7 @@ Publication:
 # [demo of RRS method](https://github.com/alvason/cd137_tissue_tracking.ipynb)
 
 ### tracing neurite in microfuidic
-![](/figure/.png)
+![](identifying_neurite_by_RRS/code/AlvaHmm_demo_17c1/figure/AlvaHmm_demo_edge_detection_mapping_connected_way_window0.png)
 
 ## Installation
 This code has been tested with Python 3.6 
