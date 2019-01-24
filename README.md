@@ -1,5 +1,5 @@
 # RRS code for Automated Identification of Neurite in Microfluidic Device
-This repository contains the code for RRS (Random-Reaction-Seed) method
+This repository contains the code for RRS method
 
 Publication: 
 # [demo of RRS method](https://github.com/alvason/cd137_tissue_tracking.ipynb)
