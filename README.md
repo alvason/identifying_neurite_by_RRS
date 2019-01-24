@@ -2,7 +2,7 @@
 This repository contains the code for RRS method
 
 Publication: 
-# [demo of RRS method](https://github.com/alvason/cd137_tissue_tracking.ipynb)
+# [demo of RRS code in Jupyter-notebook](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_17c1/AlvaHmm_demo_random_reaction_seed_by_feature_map_whole_17c1.ipynb)
 
 ### tracing neurite in microfuidic device
 ![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_17c1/figure/AlvaHmm_demo_edge_detection_edge_detection_raw_image_window0.png)
