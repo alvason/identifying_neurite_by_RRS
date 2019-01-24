@@ -10,4 +10,4 @@ Publication:
 ## Installation
 This code has been tested with Python 3.6 
 
-git clone https://github.com/alvason/RRS_neurite.git
+git@github.com:alvason/identifying_neurite_by_RRS.git
