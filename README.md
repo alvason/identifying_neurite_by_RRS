@@ -1,7 +1,7 @@
 # Identifying neurite by RRS method (Automated Identification of Neurite in Microfluidic Device)
 This code implements the RRS method initially described in the paper:
 ```
-The coming publication by Alvason L., Lawrance C., and Jia Z., (2019)
+A coming publication by Alvason L., Lawrance C., and Jia Z., (2019)
 ```
 
 ## Overview
@@ -12,7 +12,12 @@ The coming publication by Alvason L., Lawrance C., and Jia Z., (2019)
 
 ## Installation
 ### Prerequisites
-This code is written in Python 3.6.5. You will also need:
+This code is written and tested in Python 3.6.5.
+The required Python libaries are:
+* NumPy
+* SciPy
+* Matplotlib
+
 ### Getting started
 > Clone with HTTPS
 ```
@@ -20,5 +25,6 @@ clone git https://github.com/alvason/identifying_neurite_by_RRS.git
 ```
 ## [demo examples of RRS code in Jupyter-notebook](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_17c1/AlvaHmm_demo_random_reaction_seed_by_feature_map_whole_17c1.ipynb)
 
+## Versioning
 ## Contract
-For any question or problem, this code is maintained by @alvali
+For any question or problem, this code is maintained by [@alvali](https://github.com/alvason).
