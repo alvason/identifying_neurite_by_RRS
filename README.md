@@ -1,4 +1,4 @@
-# Identifying neurite by RRS method (Automated Identification of Neurite in Microfluidic Device)
+# Identifying neurite by RRS method
 This code implements the RRS method initially described in the paper:
 ```
 A coming publication by Alvason L., Lawrance C., and Jia Z., (2019)
