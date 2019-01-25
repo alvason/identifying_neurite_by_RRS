@@ -23,8 +23,8 @@ The required Python libaries are:
 ```
 clone git https://github.com/alvason/identifying_neurite_by_RRS.git
 ```
-## [demo examples of RRS code in Jupyter-notebook](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_17c1/AlvaHmm_demo_random_reaction_seed_by_feature_map_whole_17c1.ipynb)
+### Examples
+#### [Demo of RRS code in Jupyter-notebook](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_17c1/AlvaHmm_demo_random_reaction_seed_by_feature_map_whole_17c1.ipynb)
 
-## Versioning
 ## Contract
-For any question or problem, this code is maintained by [@alvali](https://github.com/alvason).
+For any question or problem, this code is maintained by [@alvason](https://github.com/alvason).
