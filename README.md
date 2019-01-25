@@ -1,5 +1,5 @@
 # Identifying neurite by RRS method
-This code implements the RRS method initially described in the paper:
+This repository contains code for implementing the RRS method initially described in the paper:
 ```
 A coming publication by Alvason L., Lawrance C., and Jia Z., (2019)
 ```
@@ -25,5 +25,5 @@ clone git https://github.com/alvason/identifying_neurite_by_RRS.git
 ### Examples
 #### [Demo of RRS code in Jupyter-notebook](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_17c1/AlvaHmm_demo_random_reaction_seed_by_feature_map_whole_17c1.ipynb)
 
-## Contract
-For any question or issue, this code is maintained by [@alvason](https://github.com/alvason).
+## Contract and more information
+This repository is maintained by [@alvason](https://github.com/alvason).
