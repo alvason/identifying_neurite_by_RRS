@@ -19,7 +19,6 @@ The required Python libaries are:
 * Matplotlib
 
 ### Getting started
-> Clone with HTTPS
 ```
 clone git https://github.com/alvason/identifying_neurite_by_RRS.git
 ```
