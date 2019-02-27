@@ -6,7 +6,7 @@ This repository contains code for implementing the RRS method initially describe
 Random-Reaction-Seed Method for Automated Identification of Neurite Elongation and Branching
 by Alvason L., Lawrance C., and Jia Z., (2019)
 ```
-(is still working on this repository, a AlvaHmm package will be ready soon...)
+(is still working on this repository, a new AlvaHmm package will be ready soon...)
 ## Overview
 ### tracing neurite in microfuidic device
 ![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/figure/AlvaHmm_demo_edge_detection_selected_seeding_selected_seed_window0.jpg)
