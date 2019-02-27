@@ -1,6 +1,8 @@
 # Identifying neurite by RRS method
-This repository contains code for implementing the RRS method initially described in the paper
-<https://doi.org/10.1038/s41598-019-39962-0>:
+This repository contains code for implementing the RRS method initially described in the paper:
+<https://doi.org/10.1038/s41598-019-39962-0>
+
+<https://www.nature.com/articles/s41598-019-39962-0)>
 ```
 Random-Reaction-Seed Method for Automated Identification of Neurite Elongation and Branching
 by Alvason L., Lawrance C., and Jia Z., (2019)
@@ -10,7 +12,6 @@ by Alvason L., Lawrance C., and Jia Z., (2019)
 ### tracing neurite in microfuidic device
 ![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/figure/AlvaHmm_demo_edge_detection_selected_seeding_selected_seed_window0.jpg)
 ![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/figure/AlvaHmm_demo_edge_detection_selected_seeding_connected_way_window3.png)
-
 
 ## Installation
 ### Prerequisites
