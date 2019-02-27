@@ -17,6 +17,7 @@ The required Python libaries are:
 * NumPy
 * SciPy
 * Matplotlib
+* AlvaHmm
 
 ### Getting started
 ```
@@ -25,5 +26,5 @@ clone git https://github.com/alvason/identifying_neurite_by_RRS.git
 ### Examples
 #### [Demo of RRS code in Jupyter-notebook](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_17c1/AlvaHmm_demo_random_reaction_seed_by_feature_map_whole_17c1.ipynb)
 
-## Contract and more information
+## Contact and more information
 This repository is maintained by [@alvason](https://github.com/alvason).
