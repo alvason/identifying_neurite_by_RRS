@@ -6,9 +6,9 @@ A coming publication by Alvason L., Lawrance C., and Jia Z., (2019)
 
 ## Overview
 ### tracing neurite in microfuidic device
-![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_17c1/figure/AlvaHmm_demo_edge_detection_edge_detection_raw_image_window0.png)
-![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_17c1/figure/AlvaHmm_demo_edge_detection_selected_seeding_selected_seed_window0.png)
-![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_17c1/figure/AlvaHmm_demo_edge_detection_mapping_connected_way_window0.png)
+![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/figure/AlvaHmm_demo_edge_detection_selected_seeding_selected_seed_window0.jpg)
+![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/figure/AlvaHmm_demo_edge_detection_selected_seeding_connected_way_window3.png)
+
 
 ## Installation
 ### Prerequisites
