@@ -30,7 +30,7 @@ clone git https://github.com/alvason/identifying_neurite_by_RRS.git
 ### Examples
 #### [Demo 1 of RRS code in Jupyter-notebook](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_seeding_map/AlvaHmm_demo_random_reaction_seed_by_blob_map.ipynb)
 #### [Demo 2 of RRS code in Jupyter-notebook](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_seeding_map/AlvaHmm_demo_random_reaction_seed_by_random_map.ipynb)
-![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/figure/AlvaHmm_demo_random_reaction_seed_by_blob_map.png)
-![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/figure/AlvaHmm_random_map_vs_blob_map.png)
+![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_seeding_map/figure/AlvaHmm_demo_random_reaction_seed_by_blob_map.png)
+![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/code/AlvaHmm_demo_seeding_map/figure/AlvaHmm_random_map_vs_blob_map.png)
 ## Contact and more information
 This repository is maintained by [@alvason](https://github.com/alvason).
