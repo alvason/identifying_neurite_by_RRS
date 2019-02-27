@@ -1,7 +1,7 @@
 # Identifying neurite by RRS method
 This repository contains code for implementing the RRS method initially described in the paper:
 
-![](https://www.nature.com/articles/s41598-019-39962-0)
+<https://www.nature.com/articles/s41598-019-39962-0)>
 
 ```
 Random-Reaction-Seed Method for Automated Identification of Neurite Elongation and Branching
