@@ -3,7 +3,7 @@ This repository contains code for implementing the RRS method initially describe
 
 <https://doi.org/10.1038/s41598-019-39962-0>
 
-<https://www.nature.com/articles/s41598-019-39962-0)>
+<https://www.nature.com/articles/s41598-019-39962-0>
 ```
 Random-Reaction-Seed Method for Automated Identification of Neurite Elongation and Branching
 by Alvason L., Lawrance C., and Jia Z., (2019)
