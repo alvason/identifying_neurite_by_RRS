@@ -8,20 +8,19 @@ This repository contains code for implementing the RRS method initially describe
 Random-Reaction-Seed Method for Automated Identification of Neurite Elongation and Branching
 by Alvason L., Lawrance C., and Jia Z., (2019)
 ```
-(is still working on this repository, a new AlvaHmm package will be ready soon...)
 ## Overview
 ### tracing neurite in microfuidic device
 ![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/figure/AlvaHmm_demo_edge_detection_selected_seeding_selected_seed_window0.jpg)
 ![](https://github.com/alvason/identifying_neurite_by_RRS/blob/master/figure/AlvaHmm_demo_edge_detection_selected_seeding_connected_way_window3.png)
 
 ## Installation
+### [pip install alva-machinery](https://pypi.org/project/alva-machinery/)
 ### Prerequisites
 This code is written and tested in Python 3.6.5.
 The required Python libaries are:
 * NumPy
 * SciPy
-* Matplotlib
-* AlvaHmm 
+* Matplotlib 
 
 ### Getting started
 ```
